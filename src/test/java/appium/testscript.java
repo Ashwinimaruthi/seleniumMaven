@@ -1,0 +1,3 @@
+package appium;
+
+ class testscript {}
